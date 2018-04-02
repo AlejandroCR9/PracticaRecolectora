@@ -1,0 +1,39 @@
+<?xml version="1.0"encoding="utf=8"?>
+<lugares>
+	<locacion>
+		<imagen>Practicas/Practica 7/Bangkok.jpg</imagen>
+		<info continente="asia">Info de Bangkok</info>
+	</locacion>
+	<locacion>
+		<imagen>Practicas/Practica 7/Brasil.jpg</imagen>
+		<info continente="america">Info de Brasil</info>
+	</locacion>
+	<locacion>
+		<imagen>Practicas/Practica 7/Egypt.jpg</imagen>
+		<info continente="africa">Info de Egipto</info>
+	</locacion>
+	<locacion>
+		<imagen>Practicas/Practica 7/London.jpg</imagen>
+		<info continente="europa">Info de Londres</info>
+	</locacion>
+	<locacion>
+		<imagen>Practicas/Practica 7/Mexico.jpg</imagen>
+		<info continente="america">Info de MX</info>
+	</locacion>
+	<locacion>
+		<imagen>Practicas/Practica 7/New_York.jpg</imagen>
+		<info continente="america">Info de New York</info>
+	</locacion>
+	<locacion>
+		<imagen>Practicas/Practica 7/Paris.jpg</imagen>
+		<info continente="europa">Info de Paris</info>
+	</locacion>
+	<locacion>
+		<imagen>Practicas/Practica 7/Rome.jpg</imagen>
+		<info continente="europa">Info de Roma</info>
+	</locacion>
+	<locacion>
+		<imagen>Practicas/Practica 7/Venece.jpg</imagen>
+		<info continente="europa">Info de Venecia</info>
+	</locacion>
+</lugares>
